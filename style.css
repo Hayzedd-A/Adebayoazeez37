@@ -80,6 +80,7 @@ section.navigation nav.mobile {
   section.navigation nav .close {
     display: inline;
     width: 8em;
+    height: 2em;
   }
 }
 section.navigation nav ul {
